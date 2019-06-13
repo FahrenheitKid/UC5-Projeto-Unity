@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    //teste para o git
     //variavel para guardar a velociade atual
     public float speed = 2f;
     //altura do pulo
