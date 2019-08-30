@@ -9,6 +9,7 @@ TagManager:
   - Obstacle
   - SpawnPointsEnemies
   - SpawnPointCoins
+  - Portal
   layers:
   - Default
   - TransparentFX
